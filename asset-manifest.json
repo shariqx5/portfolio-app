@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.ead2f3d8.chunk.css",
+    "main.js": "/portfolio-app/static/js/main.dca26dc8.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.dca26dc8.chunk.js.map",
+    "runtime~main.js": "/portfolio-app/static/js/runtime~main.b94ec399.js",
+    "runtime~main.js.map": "/portfolio-app/static/js/runtime~main.b94ec399.js.map",
+    "static/css/2.2f3aac86.chunk.css": "/portfolio-app/static/css/2.2f3aac86.chunk.css",
+    "static/js/2.858d140b.chunk.js": "/portfolio-app/static/js/2.858d140b.chunk.js",
+    "static/js/2.858d140b.chunk.js.map": "/portfolio-app/static/js/2.858d140b.chunk.js.map",
+    "index.html": "/portfolio-app/index.html",
+    "precache-manifest.7bd4ea9359602f8e64add502ba37e4c7.js": "/portfolio-app/precache-manifest.7bd4ea9359602f8e64add502ba37e4c7.js",
+    "service-worker.js": "/portfolio-app/service-worker.js",
+    "static/css/2.2f3aac86.chunk.css.map": "/portfolio-app/static/css/2.2f3aac86.chunk.css.map",
+    "static/css/main.ead2f3d8.chunk.css.map": "/portfolio-app/static/css/main.ead2f3d8.chunk.css.map",
+    "static/media/flaticon.css": "/portfolio-app/static/media/Flaticon.9bd1bb6d.woff",
+    "static/media/futura.css": "/portfolio-app/static/media/FuturaBT-MediumItalic.5c088e0d.ttf",
+    "static/media/style.css": "/portfolio-app/static/media/slide-1.4509da9d.4509da9d.jpg",
+    "static/media/about.c07f3d2b.png": "/portfolio-app/static/media/about.c07f3d2b.c07f3d2b.png",
+    "static/media/cv.pdf": "/portfolio-app/static/media/cv.d37b3550.pdf",
+    "static/media/font-awesome.min.css": "/portfolio-app/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/pinfood-banner.png": "/portfolio-app/static/media/pinfood-banner.eb71da36.png",
+    "static/media/pinfood.png": "/portfolio-app/static/media/pinfood.27784d5f.png",
+    "static/media/profile.png": "/portfolio-app/static/media/profile.8c3945b5.png",
+    "static/media/rimattire-banner.png": "/portfolio-app/static/media/rimattire-banner.456f75e1.png",
+    "static/media/rimattire.jpg": "/portfolio-app/static/media/rimattire.8cf8fae0.jpg",
+    "static/media/signite.png": "/portfolio-app/static/media/signite.907bf5fd.png",
+    "static/media/stepago-banner.png": "/portfolio-app/static/media/stepago-banner.a887d4f1.png",
+    "static/media/stepago.png": "/portfolio-app/static/media/stepago.370559dc.png",
+    "static/media/themify-icons.css": "/portfolio-app/static/media/themify.e23a7dca.ttf"
+  }
+}
