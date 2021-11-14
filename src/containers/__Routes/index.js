@@ -16,7 +16,7 @@ export default function Routes() {
         <PublicRoute exact path="/" component={HomePage} />
         <PrivateRoute path="/home" component={HomePage} />
         <PrivateRoute path="/project/details" component={ProjectDetails} />
-        <PrivateRoute path="/404" component={ErroPage} />
+        <PrivateRoute path="/*" component={ErroPage} />
         <Route exact component={HomePage} />
       </Switch>
     </Router>
